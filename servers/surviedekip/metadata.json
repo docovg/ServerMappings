@@ -1,0 +1,28 @@
+{
+    "id": "surviedekip",
+    "name": "Survie d'Ekip",
+    "website": "https://surviedekip.fr",
+    "store": "https://surviedekip.fr/shop",
+    "addresses": [
+      "play.surviedekip.fr"
+    ],
+    "primaryAddress": "play.surviedekip.fr",
+    "primaryColor": "#f6c408",
+    "secondaryColor": "#f67808",
+    "minecraftVersions": [
+      "1.21.4"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "primaryRegion": "EU",
+    "regions": [
+      "EU"
+    ],
+    "gameTypes": [
+      "Survie",
+      "Survival"
+    ],
+    "socials": {
+      "discord": "https://discord.gg/BEWBkmbJ3t"
+    }
+  }
+  
